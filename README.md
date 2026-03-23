@@ -10,7 +10,7 @@ Invoice2Erpnext is an advanced tool that automatically processes invoices from v
 
 Before using Invoice2Erpnext, ensure:
 
-1. You've installed the Invoice2Erpnext app in your ERPNext instance. Currently compatible with **ERPNext version 15**.
+1. You've installed the Invoice2Erpnext app in your ERPNext instance. Currently compatible with **ERPNext version 15 and 16**.
 2. Your administrator has configured the "Invoice2Erpnext Settings" with:
    - API credentials (api_key and api_secret) obtained from [https://kainotomo.com/api_keys](https://kainotomo.com/api_keys)
    - Default VAT account for tax calculations

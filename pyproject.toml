@@ -21,3 +21,6 @@ include = ["invoice2erpnext*"]
 [tool.setuptools.dynamic]
 version = { attr = "invoice2erpnext.__version__" }
 dependencies = { file = ["requirements.txt"] }
+
+[tool.bench.frappe-dependencies]
+frappe = ">=15.0.0 <17.0.0"
